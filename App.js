@@ -5,5 +5,5 @@ import React from "react";
 import MemoItem from "./components/MemoItem/index";
 
 export default function App() {
-  return <MemoItem></MemoItem>;
+  return <MemoItem />;
 }
